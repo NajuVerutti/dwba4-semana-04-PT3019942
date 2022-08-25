@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+div{
+  padding: 0px 10px 0px 10px;
+}
+
+.topnav nav{
+  float: right;
+  text-align: justify;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav{
+  padding-bottom: 4%
+}
